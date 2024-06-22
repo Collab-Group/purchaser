@@ -1,0 +1,14 @@
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\bin\Debug\purchaser-applic.exe.config
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\bin\Debug\purchaser-applic.exe
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\bin\Debug\purchaser-applic.pdb
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser-applic.csproj.AssemblyReference.cache
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser_applic.Form1.resources
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser_applic.Properties.Resources.resources
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser-applic.csproj.GenerateResource.cache
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser-applic.csproj.CoreCompileInputs.cache
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser-applic.exe
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser-applic.pdb
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchaser_applic.maincontent.resources
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prabh\source\repos\purchaser-applic\purchaser-applic\obj\Debug\purchase.480A0A00.Up2Date
